@@ -1,0 +1,2 @@
+mdic1t --title title.html --description description.html -a salam_mdx.txt "Gratification (Audio Book).mdx"
+mdict --title title.html --description description.html -a "part1" "Gratification (Audio Book).mdd"
